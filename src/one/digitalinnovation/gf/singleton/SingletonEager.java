@@ -1,4 +1,4 @@
-package one.digitalinnovation.gf;
+package one.digitalinnovation.gf.singleton;
 /**
  * @author: https://github.com/AurelioMsFilho
  */
