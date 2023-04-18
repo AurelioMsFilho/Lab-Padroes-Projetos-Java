@@ -4,6 +4,7 @@ import one.digitalinnovation.gf.singleton.SingletonEager;
 import one.digitalinnovation.gf.singleton.SingletonLazy;
 import one.digitalinnovation.gf.singleton.SingletonLazyHolder;
 import one.digitalinnovation.gf.strategy.*;
+import subsistema1.crm.CrmService;
 
 public class test {
     public static void main(String[] args) {
@@ -42,6 +43,8 @@ public class test {
         robo.setComportamento(ataque);
         robo.mover();
         robo.mover();
+
+
 
 
             }
